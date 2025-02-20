@@ -17,3 +17,7 @@ Answer: Merging combines two branches keeping the commit structure.
 Rebasing is different because it rewrites commit history by applying 
 commits in order to create a cleaner commit history.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning about SQL and databases because I 
+am doing an internship this summer that requires these skills.
