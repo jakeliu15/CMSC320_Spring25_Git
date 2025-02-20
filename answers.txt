@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the finance field. One example of 
+this would be analyzing historical stock prices to predict future prices 
+and trends.
